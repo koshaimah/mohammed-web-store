@@ -1,0 +1,7 @@
+{
+  "name": "E-Commerce Pro Platform",
+  "description": "A comprehensive e-commerce solution with customer store, admin dashboard, cart management, and order tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
